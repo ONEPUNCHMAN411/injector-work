@@ -1,0 +1,4 @@
+n_rp1_active=72
+n_lox_active=36
+cup_d=7.5
+cant_deg=7.0
