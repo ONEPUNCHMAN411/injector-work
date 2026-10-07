@@ -2,12 +2,6 @@
 runs/
 results/
 
-# Large binary geometry files
-*.stl
-# Uncomment to keep specific small STL files:
-# !rev4_outlet.stl
-# !rev4_rp1_inlet.stl
-
 # Python cache
 __pycache__/
 *.pyc
